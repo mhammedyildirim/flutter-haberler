@@ -18,7 +18,7 @@ Bu proje, kullanıcıların güncel haberleri takip edebileceği, arayabileceği
 
 ## Giriş
 
-Haber platformlarının kullanıcı odaklı iyileştirilmesi, son kullanıcı deneyiminin geliştirilmesi açısından büyük önem taşımaktadır. Bu proje, haberlerin kategorilere ayrılması, aranması ve favorilere eklenmesi gibi temel işlevlerle kullanıcı memnuniyetini artırmayı hedeflemektedir. Ayrıca, kullanıcıların ilgilendikleri içeriklere hızlı erişim sağlayarak haber okuma deneyimini zenginleştirmeyi amaçlamaktadır【6:2†source】.
+Haber platformlarının kullanıcı odaklı iyileştirilmesi, son kullanıcı deneyiminin geliştirilmesi açısından büyük önem taşımaktadır. Bu proje, haberlerin kategorilere ayrılması, aranması ve favorilere eklenmesi gibi temel işlevlerle kullanıcı memnuniyetini artırmayı hedeflemektedir. Ayrıca, kullanıcıların ilgilendikleri içeriklere hızlı erişim sağlayarak haber okuma deneyimini zenginleştirmeyi amaçlamaktadır.
 
 ## Özellikler
 
@@ -26,7 +26,7 @@ Haber platformlarının kullanıcı odaklı iyileştirilmesi, son kullanıcı de
 - **Arama Fonksiyonu:** Kullanıcıların belirli haberleri aramasına olanak tanır.
 - **Haber İçeriği Görüntüleme:** Detaylı haber içeriği sunar.
 - **Favorilere Ekleme:** Kullanıcılar favori haberlerini kaydedebilir.
-- **Favori Haberleri Görüntüleme ve Paylaşma:** Kullanıcılar favori haberlerini görüntüleyebilir ve paylaşabilir【6:1†source】【6:5†source】.
+- **Favori Haberleri Görüntüleme ve Paylaşma:** Kullanıcılar favori haberlerini görüntüleyebilir ve paylaşabilir.
 
 ## Kurulum
 
@@ -88,9 +88,9 @@ lib/
 
 ## Teknolojiler
 
-- **Flutter:** Kullanıcı arayüzü geliştirme çerçevesi【6:4†source】.
+- **Flutter:** Kullanıcı arayüzü geliştirme framework'ü.
 - **Dart:** Flutter için programlama dili.
-- **RESTful API:** Haber verilerini sağlamak için kullanılan API【6:3†source】.
+- **RESTful API:** Haber verilerini sağlamak için kullanılan API.
 
 ## Katkıda Bulunma
 
