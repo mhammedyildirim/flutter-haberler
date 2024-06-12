@@ -9,12 +9,12 @@ Bu proje, kullanıcıların güncel haberleri takip edebileceği, arayabileceği
 
 1. [Giriş](#giriş)
 2. [Özellikler](#özellikler)
-3. [Kurulum](#kurulum)
-4. [Kullanım](#kullanım)
-5. [Proje Yapısı](#proje-yapısı)
-6. [Teknolojiler](#teknolojiler)
-7. [Katkıda Bulunma](#katkıda-bulunma)
-8. [Lisans](#lisans)
+3. [Uygulama Ekranı](#uygulama-ekranı)
+4. [Kurulum](#kurulum)
+5. [Kullanım](#kullanım)
+6. [Proje Yapısı](#proje-yapısı)
+7. [Teknolojiler](#teknolojiler)
+8. [Katkıda Bulunma](#katkıda-bulunma)
 
 ## Giriş
 
@@ -27,6 +27,9 @@ Haber platformlarının kullanıcı odaklı iyileştirilmesi, son kullanıcı de
 - **Haber İçeriği Görüntüleme:** Detaylı haber içeriği sunar.
 - **Favorilere Ekleme:** Kullanıcılar favori haberlerini kaydedebilir.
 - **Favori Haberleri Görüntüleme ve Paylaşma:** Kullanıcılar favori haberlerini görüntüleyebilir ve paylaşabilir.
+
+## Uygulama Ekranı
+![1](https://github.com/mhammedyildirim/flutter-haberler/assets/61433710/ac32d5a6-4649-42f5-bc74-a42083908556)
 
 ## Kurulum
 
@@ -42,20 +45,24 @@ Haber platformlarının kullanıcı odaklı iyileştirilmesi, son kullanıcı de
    [Flutter SDK İndirme ve Kurulum](https://flutter.dev/docs/get-started/install)
 
 2. **Proje Dosyalarını Kopyalayın:**
-   \```bash
+
+   ```
    git clone https://github.com/kullaniciadi/flutter-haber-uygulamasi.git
+   ```
+   
+   ```
    cd flutter-haber-uygulamasi
-   \```
+   ```
 
-3. **Bağımlılıkları Yükleyin:**
-   \```bash
+4. **Bağımlılıkları Yükleyin:**
+   ```
    flutter pub get
-   \```
+   ```
 
-4. **Uygulamayı Çalıştırın:**
-   \```bash
+5. **Uygulamayı Çalıştırın:**
+   ```
    flutter run
-   \```
+   ```
 
 ## Kullanım
 
@@ -63,7 +70,7 @@ Uygulamayı başlattıktan sonra ana ekranda güncel haberler görüntülenecekt
 
 ## Proje Yapısı
 
-\```plaintext
+```
 lib/
 ├── main.dart
 ├── models/
@@ -78,7 +85,7 @@ lib/
 └── widgets/
     ├── news_card.dart
     └── search_bar.dart
-\```
+```
 
 - **main.dart:** Uygulamanın giriş noktası.
 - **models/news.dart:** Haber modeli.
